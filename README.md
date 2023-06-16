@@ -1,4 +1,3 @@
-# NLP-Tasks-with-Solutions
 # Natural Language Processing Task
 
 This repository contains solutions for four natural language processing tasks. Each task focuses on a specific problem and provides a solution using various NLP techniques. Below is a description of each task:
